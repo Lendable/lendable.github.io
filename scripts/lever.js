@@ -1,3 +1,5 @@
+/* https://github.com/andreasmb/lever-jobs-embed/blob/master/index.js */
+
 window.loadLeverJobs = function (options) {
   //Checking for potential Lever source or origin parameters
   var pageUrl = window.location.href;
